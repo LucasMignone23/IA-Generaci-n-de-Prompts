@@ -1,0 +1,31 @@
+Preentrega N°2 IA: Generación de Prompts
+
+Comisión: 71400.
+
+Alumno: Lucas Mignone.
+
+Nombre del Proyecto: Generador de Mini Relatos Interactivos
+
+Presentación del Problema a Abordar
+
+Problema Elegido:
+
+La falta de entretenimiento personalizado y accesible para los usuarios en formato de mini relatos.
+
+Desarrollo del Problema:
+
+En la era digital actual, los usuarios buscan experiencias de entretenimiento que sean rápidas, y personalizadas, muchas de las opciones disponibles no se adaptan a las preferencias individuales de cada usuario, lo que puede llevar a una experiencia menos satisfactoria. Este problema es especialmente relevante en un mundo donde la personalización es clave para mantener el interés y la satisfacción del usuario, además de que la paciencia es cada vez menor y buscan algo instantáneo.
+
+Relevancia del Problema:
+
+Desarrollar una solución que permita a los usuarios generar mini relatos personalizados puede ofrecer una forma innovadora y atractiva de entretenimiento. Además, esto puede fomentar la creatividad y el interés en la lectura, especialmente entre las generaciones más jóvenes que buscan experiencias interactivas y únicas.
+
+Desarrollo de la Propuesta de Solución
+
+Vinculación con el Desarrollo de Modelos de IA: La propuesta implica el uso de modelos de generación de texto (como GPT-3.5 o Gemini) y de generación de imágenes (como DALL-E o NightCafe o alguna alternativa gratuita) para crear relatos personalizados basados en las elecciones del usuario. Estos modelos permitirán generar contenido dinámico y adaptado a las preferencias individuales.
+
+Descripción de los Prompts: Selección de Personajes: -Prompt: "Elige dos personajes para tu relato. Pueden ser nombres específicos o descripciones breves (ej. 'El valiente caballero' y 'La astuta hechicera')." Selección del Género del Relato: -Prompt: "Selecciona el género de tu relato (ej. Aventura, Romance, Ciencia Ficción, Misterio)." Descripción del Tema: -Prompt: "Escribe una breve descripción del tema del relato (ej. 'Rescatar el tesoro del dragón')." Generación del Relato y las Imágenes: -Utilizar los modelos de IA para crear un mini relato basado en las elecciones del usuario. -Generar imágenes que acompañan al relato, reflejando las descripciones de los personajes y el tema.
+
+Justificación de la Viabilidad del Proyecto
+
+Viabilidad Técnica: El proyecto es técnicamente viable dado el acceso a modelos avanzados de generación de texto e imagen, como GPT-3.5 , Gemini, DALL-E o NightCafe. Estos modelos ya están disponibles y han demostrado ser efectivos en la generación de contenido coherente y visualmente atractivo.
