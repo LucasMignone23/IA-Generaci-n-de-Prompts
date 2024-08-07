@@ -3,7 +3,7 @@
 
 # Configurar la API key directamente
 import os
-os.environ["GEMINI_API_KEY"] = "AIzaSyAdo0sYdDurZo-kD5njvhbE8a1IkaLegxU"
+os.environ["GEMINI_API_KEY"] = ""
 
 # Importar las bibliotecas necesarias
 import google.generativeai as genai
